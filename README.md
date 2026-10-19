@@ -20,10 +20,10 @@ This repository contains the solutions to the Python practical list, with the co
 The programs are grouped into three files:
 
 | Programs | File |
-|---|---|
-| 1 to 5 | [README_1_to_5.md](README_1_to_5.md) |
-| 6 to 10 | [README_6_to_10.md](README_6_to_10.md) |
-| 11 to 15 | [README_11_to_15.md](README_11_to_15.md) |
+|----------|------|
+| 1 to 5   | [prac-1,2,3,4,5.md](prac-1,2,3,4,5.md) |
+| 6 to 10  | [prac-6,7,8,9,10.md](prac-6,7,8,9,10.md) |
+| 11 to 15 | [prac-11,12,13,14,15.md](prac-11,12,13,14,15.md) |
 
 ## Practical List
 
